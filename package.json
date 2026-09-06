@@ -1,0 +1,6 @@
+{
+  "name": "editions-perspectives-checkout",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend sécurisé Stripe Checkout pour Éditions Perspectives"
+}
