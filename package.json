@@ -1,6 +1,6 @@
 {
   "name": "editions-perspectives-checkout",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "private": true,
-  "description": "Backend sécurisé Stripe Checkout pour Éditions Perspectives"
+  "description": "Secure Stripe Checkout backend for Éditions Perspectives using Stripe catalogue Price IDs"
 }
